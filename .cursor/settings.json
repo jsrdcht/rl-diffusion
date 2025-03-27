@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/workspace/ddpo-pytorch/ddpo_pytorch2/bin/python",
+    "terminal.integrated.env.linux": {
+        "CONDA_PREFIX": "/workspace/ddpo-pytorch/ddpo_pytorch2",
+        "CONDA_DEFAULT_ENV": "/workspace/ddpo-pytorch/ddpo_pytorch2"
+    }
+}
